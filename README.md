@@ -27,7 +27,7 @@ Clone the Repository:
 
 Bash
 
-git clone https://github.com/yourusername/ddos-mitigation.git
+git clone https://github.com/jimmyraj18/Cloud-DDoS.git
 cd ddos-mitigation
 Install Dependencies: Ensure you have Python and pip installed. Then, install the required Python packages:
 
