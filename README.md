@@ -1,5 +1,5 @@
-# Cloud-DDoS
-Welcome to the DDoS Mitigation Project! This repository contains resources and tools aimed at detecting, mitigating, and preventing Distributed Denial of Service (DDoS) attacks. The project is designed to help organizations safeguard their network infrastructure from malicious traffic and ensure the availability of their services.
+# Cloud-DDoS (Distributed Denial of Service (DDoS))
+Welcome to the DDoS Mitigation Project! This repository contains resources and tools aimed at detecting, mitigating, and preventing Distributed Denial of Service (DDoS) Cyber attacks. The project is designed to help organizations safeguard their network infrastructure from malicious traffic and ensure the availability and security of their services.
 
 Table of Contents
 Introduction
