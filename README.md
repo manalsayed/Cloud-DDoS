@@ -82,8 +82,7 @@ Please ensure that your code adheres to our coding standards and includes approp
 License
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
-Contact
-If you have any questions or need further assistance, please contact the project maintainers at email@example.com.
+
 
 Thank you for using the DDoS Mitigation Project! We hope it helps you protect your network and maintain the availability of your services.
 
